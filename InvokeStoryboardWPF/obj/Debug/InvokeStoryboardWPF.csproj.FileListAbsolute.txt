@@ -1,0 +1,13 @@
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\InvokeStoryboardWithBehaviorsSDK\InvokeStoryboardWPF\bin\Debug\InvokeStoryboardWPF.exe.config
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\InvokeStoryboardWithBehaviorsSDK\InvokeStoryboardWPF\obj\Debug\InvokeStoryboardWPF.csprojResolveAssemblyReference.cache
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\InvokeStoryboardWithBehaviorsSDK\InvokeStoryboardWPF\obj\Debug\App.g.cs
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\InvokeStoryboardWithBehaviorsSDK\InvokeStoryboardWPF\obj\Debug\InvokeStoryboardWPF_MarkupCompile.cache
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\InvokeStoryboardWithBehaviorsSDK\InvokeStoryboardWPF\bin\Debug\InvokeStoryboardWPF.exe
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\InvokeStoryboardWithBehaviorsSDK\InvokeStoryboardWPF\bin\Debug\InvokeStoryboardWPF.pdb
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\InvokeStoryboardWithBehaviorsSDK\InvokeStoryboardWPF\obj\Debug\MainWindow.baml
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\InvokeStoryboardWithBehaviorsSDK\InvokeStoryboardWPF\obj\Debug\MainWindow.g.cs
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\InvokeStoryboardWithBehaviorsSDK\InvokeStoryboardWPF\obj\Debug\InvokeStoryboardWPF.g.resources
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\InvokeStoryboardWithBehaviorsSDK\InvokeStoryboardWPF\obj\Debug\InvokeStoryboardWPF.Properties.Resources.resources
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\InvokeStoryboardWithBehaviorsSDK\InvokeStoryboardWPF\obj\Debug\InvokeStoryboardWPF.csproj.GenerateResource.Cache
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\InvokeStoryboardWithBehaviorsSDK\InvokeStoryboardWPF\obj\Debug\InvokeStoryboardWPF.exe
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\InvokeStoryboardWithBehaviorsSDK\InvokeStoryboardWPF\obj\Debug\InvokeStoryboardWPF.pdb
